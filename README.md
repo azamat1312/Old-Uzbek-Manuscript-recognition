@@ -1,6 +1,6 @@
 # EUY-HTR — Eski o'zbek yozuvi uchun HTR tizimi
 
-Eski o'zbek (arab-fors) yozuvidagi hujjatlarni matnga o'giruvchi tizim. Rasm
+Eski o'zbek yozuvi(arab grafikasiga asoslangan)dagi hujjatlarni matnga o'giruvchi tizim. Rasm
 yuklanadi, natija TXT / DOCX / PDF sifatida qaytariladi.
 
 ## Talablar
