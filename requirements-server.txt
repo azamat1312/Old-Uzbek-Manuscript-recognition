@@ -1,0 +1,24 @@
+# EUY-HTR backend (FastAPI server) kutubxonalari.
+#
+# DIQQAT: torch va torchvision CPU versiyasini alohida indeksdan o'rnatish kerak:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+
+# --- HTR modeli ---
+torch
+torchvision
+ultralytics
+
+# --- Web server ---
+fastapi
+uvicorn[standard]
+python-multipart
+
+# --- Tasvirlar bilan ishlash ---
+pillow
+numpy
+
+# --- Fayl eksporti (txt/docx/pdf) ---
+python-docx
+reportlab
+arabic-reshaper
+python-bidi
